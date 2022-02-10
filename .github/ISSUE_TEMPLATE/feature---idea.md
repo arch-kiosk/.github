@@ -18,3 +18,8 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+### prerequisistes
+if this issue depends on other issues that should be tracked, add the task list here or delete this section
+- [ ] e.g. task 1
+- [ ] e.g. task 2
