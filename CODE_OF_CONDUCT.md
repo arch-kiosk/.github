@@ -7,7 +7,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to all spaces directly managed by the Arch-Kiosk project. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing laurel_bestock@brown.edu. For more details, please see our reporting guidelines.
+If you believe someone is violating the code of conduct, we ask that you report it by emailing laurel_bestock@brown.edu. For more details, [please see our reporting guidelines](report_guide.md).
 
 -	Be friendly and patient.  
 -	Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.  
