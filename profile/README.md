@@ -7,4 +7,4 @@ This is the universal tablet-based field recording and data management software 
 💼 please go to [the office](https://github.com/arch-kiosk/arch-kiosk-office) to file bugs, ideas, tickets, participate in discussion etc.
 
 ## other repositories
-Repositories other than the arch-kiosk-office are for source code only. 
+Repositories other than the arch-kiosk-office are for source code and files only. 
