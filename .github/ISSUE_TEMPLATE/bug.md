@@ -1,11 +1,14 @@
 ---
 name: bug
 about: we use this to report bugs
-title: ''
-labels: bug
+title: 'where: bug title'
+labels: bug, new-issue
 assignees: ''
 
 ---
+
+(please remove instructions and sections that don't apply)
+please give a title that indicates where you encountered the bug (e.g. file repository, locus layout) followed by a colon and a short descriptive/summarizing title.
 
 **if this is a bug, describe the bug**
 A clear and concise description of what the bug is.
