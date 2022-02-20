@@ -2,7 +2,7 @@
 name: basic issue template
 about: we use this for unspecific tasks and ideas.
 title: ''
-labels: ''
+labels: new-issue
 assignees: ''
 
 ---
