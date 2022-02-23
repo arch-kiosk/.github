@@ -20,8 +20,9 @@
   - for the user's manual we will create a new, empty wiki
   - Lutz will still do some research on publishing documentation via GitHub Pages, but that mustn't keep us from working on it in the wiki.
   - documentation for developers will be kept in our main wiki for the time being.
+  - new content for documentation comes from tickets that are labeled "user manual" or "developer manual"
    
-#ä# tickets / issues
+### tickets / issues
    - we use a single communal repository "arch-kiosk-office" for all software related tickets (including projects). That repo must be public so that issues can have more than one assignee.
    - Every field-project will have its own project; whenever a ticket is somehow specific to a project it should be added to that project. We don't use labels anymore for that purpose. 
    - we'll keep project management a separate repository for issues related only to general management of the project (thinking about grants, finding collaborators, organizing workflows etc.)
