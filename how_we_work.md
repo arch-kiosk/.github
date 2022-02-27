@@ -3,8 +3,8 @@
 ## Types of information we deal with
 
 ### field project information
-  - we develop specifications for field projects using either 
-    - a google doc stored in the project's folder on the shared google drive
+  - every field project gets a folder on the shared google drive
+  - we develop specifications for field projects using google docs stored in the project's folder on the shared google drive
   - the project repository's readme should point to the project's google drive
   - after we have finished a field season we should also keep the most important files in the project's github repository.
   - those specs can be used for testing - remember that changes during the testing and development process must reflect back to the specs so that they are kept the single source of truth.
