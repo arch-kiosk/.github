@@ -14,3 +14,6 @@ Kiosk is the universal tablet-based field recording and data management software
 
 ## other repositories
 Repositories other than the arch-kiosk-office are for source code and files only. 
+
+## fields season calendar (protected)
+https://github.com/orgs/arch-kiosk/projects/28/views/1
